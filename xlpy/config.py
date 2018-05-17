@@ -15,7 +15,7 @@ class Config(object):
     SERVICE_ID  =  {
         'XL_XTRA_KUOTA' : '8110577',
         'XL_GO_IZI'     : '8211231',
-        'SUPER_SERU_BULANAN' : '8210965'
+        'SUPER_SERU'    : '8210965'
     }
 
     HEADERS     =  {
