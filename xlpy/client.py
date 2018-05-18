@@ -61,7 +61,7 @@ class XL(Config):
             "platform" : "00",
             "staySigned" : "True",
             "onNetLogin" : "NO",
-            "appVersion" : "3.0.2",
+            "appVersion" : "3.0.1",
             "sourceName" : "Chrome",
             "sourceVersion" : ""
         }
@@ -137,7 +137,7 @@ class XL(Config):
                 
                 "XBOXRequest" : {
                     "requestName" : "GetSubscriberMenuId",
-                    "Subscriber_Number" : "2099690413",
+                    "Subscriber_Number" : "1934551194",
                     "Source" : "mapps",
                     "PayCat" : "PRE-PAID",
                     "Rembal" : "0",
